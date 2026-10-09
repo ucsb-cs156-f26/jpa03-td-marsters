@@ -1,6 +1,6 @@
 # jpa03-td-marsters
 
-Running at: <https://jpa03-td-marsters.dokku-09.cs.ucsb.edu/>
+Running at: <https://jpa03-td-marsters.dokku-09.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
